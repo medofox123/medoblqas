@@ -202,7 +202,7 @@ def down_it_2(item):
 				s.shutdown(1)
 				global already_connected_false
 				already_connected_false +=1
-				live_bro()
+Bi			live_bro()
 				time.sleep(.1)
 	except socket.error as e:
 	    already_connected_false +=1
@@ -260,7 +260,7 @@ def usage1():
         	-f : Fake ip
             -d : Hide message
 	example :
-	    python KlarDdos.py -i 92.204.214.136 -p 80 -l 2"""
+	    python BIGFOX.py -i 92.204.214.136 -p 80 -l 2"""
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")
     #sys.exit()
@@ -272,7 +272,7 @@ def usage2():
     console = Console()
     MARKDOWN2="""
     
-                        خرا ع اخرائيل.        
+                     فوكس الهكر.        
     """
     md = Markdown(MARKDOWN2)
     console.print(md,style="bold green")
@@ -283,10 +283,10 @@ def usage2():
 def usage3():
     console = Console()
     MARKDOWN="""
-    Programmer : Dr Data
-    Made in : YEMEN
-    Telegram : https://t.me/kali_linux_ar
-    github : https://github.com/Dr-Data2/KlarDDos
+    Programmer : Medohackerz
+    Made in : DEV MEDO
+    Telegram : https://t.me/x_mr_fox_x
+    github : https://github.com/medofox123
     Tool Information : I was specially made to destroy Israel   
 """
     md = Markdown(MARKDOWN)
