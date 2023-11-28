@@ -241,7 +241,7 @@ def dos_3():
 def usage():
     console = Console()
     MARKDOWN=("""
-         	     Medo FOX HACKER BLQAS            """)
+         	    Dev Medo FOX HACKER BLQAS            """)
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")   
     
