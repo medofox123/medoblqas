@@ -16,7 +16,7 @@ DDOS strong tool to stop servers and sites
 - 2 . <code> git clone https://github.com/medofox123/medohackerzz  </code>
 - 3 . <code> cd medohackerzz </code>
 - 4 . <code> pip install -r installing.txt </code>
-- 5 . <code> python BIGGOX.py -h  </code>
+- 5 . <code> python BIGFOX.py -h  </code>
 
 
 
@@ -35,5 +35,3 @@ $ <code>python BIGFOX.py [-i] [-p] [-l]    </code>
 <code> python BIGFOX.py -i 92.204.214.136 -p 80 -l  2 </code>
 
 
-
-A short video explaining the tool https://youtu.be/JE_srze4gMQ
