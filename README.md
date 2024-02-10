@@ -16,14 +16,14 @@ DDOS strong tool to stop servers and sites
 - 2 . <code> git clone https://github.com/medofox123/medohackerzz  </code>
 - 3 . <code> cd medohackerzz </code>
 - 4 . <code> pip install -r installing.txt </code>
-- 5 . <code> python KlarDdos.py -h  </code>
+- 5 . <code> python BIGGOX.py -h  </code>
 
 
 
 
 ### Command information:
     الاستخدام :
-$ <code>python KlarDdos.py [-i] [-p] [-l]    </code>     
+$ <code>python BIGFOX.py [-i] [-p] [-l]    </code>     
 
 │         -h : للمساعده                             
 │         -i : اي بي السيرفر                            
